@@ -1,0 +1,9 @@
+İmha mantığı : Bir uzay aracının içindeki bütün kişiler ölürse imha edilmiş sayılır
+
+Gezegendeki nüfus mantığı : Bir araç "Bekliyor" durumunda ise araçtaki yaşayan kişiler çıkış gezegenine dahil edilir, "Vardı" durumunda ise varış gezegenine dahil edilir, "Yolda" ya da "İmha" durumlarındaysa hiç bir nüfusa dahil edilmez.
+
+Bitiş mantığı : Tüm uzay araçları "Vardi" veya "İmha" durumlarından birindeyse bitmiştir.
+
+Araç, Kişi, Gezegen txt dosyaları dist klasörüne konulmalı
+
+Oğuzhan Öztürk b231210071
